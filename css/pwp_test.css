@@ -1,3 +1,7 @@
-.black-heading {
+section .black-heading {
   color: #44aaac;
+}
+
+.view-link .btn.btn-default {
+  background: orange;
 }
